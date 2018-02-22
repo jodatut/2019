@@ -21,7 +21,9 @@ Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/s
 
 Avausluento maanantaina 5. maaliskuuta kello 14-16 Sähkötalon salissa.
 Suorittamisen käytännöt.
-Mitä on datatiede?
+Mitä on datatiede
+([modern data scientist](https://www.schoolofdatascience.amsterdam/news/skills-need-become-modern-data-scientist/),
+[datatieteen metrokartta](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/))?
 Datatieteen työvälineet:
 [Pandas](https://pandas.pydata.org/),
 [scikit-learn](http://scikit-learn.org/),

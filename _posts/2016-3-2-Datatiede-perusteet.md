@@ -16,7 +16,7 @@ sekä seuraavat kirjastot:
 - [Matplotlib](https://matplotlib.org/)
 - [Scikit-learn](http://scikit-learn.org/stable/)
 
-__ Huom! Mikäli käytät Anacondaa, käytä myös Anacondan paketinhallintajärjestelmää eli _conda_:a esim.__ `conda install numpy`.
+Huom! Mikäli käytät Anacondaa, käytä myös Anacondan paketinhallintajärjestelmää eli _conda_:a esim. `conda install numpy`.
 
 
 ## Ensimmäinen esimerkki ##

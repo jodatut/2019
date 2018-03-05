@@ -1,3 +1,8 @@
+---
+layout: post
+title: Johdanto datatieteeseen
+---
+
 # Teknologiademo 1 #
 
 Ennen ensimmäistä teknologiademoa opiskelijalta odotetaan:
@@ -18,6 +23,7 @@ sekä seuraavat kirjastot:
 
 Huom! Mikäli käytät Anacondaa, käytä myös Anacondan paketinhallintajärjestelmää eli _conda_:a esim. `conda install numpy`.
 
+Lopuksi liittykää opintojakson Slack-kanavalle [täältä](https://join.slack.com/t/jodatut/shared_invite/enQtMzIyOTk4NjI5OTM2LTU2NDUwM2I0ZmRhZmI4Y2E5OWM1NGE1MTA5NDQ5NGRhMDI3NWI0MjUxZDA5MjIxMjhmNmFlYmI5YzRjZTdmOWU).
 
 ## Ensimmäinen esimerkki ##
 

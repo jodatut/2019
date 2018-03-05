@@ -37,3 +37,5 @@ ryömijät ja raapijat (ks. [esimerkki](https://github.com/jukkahuhtamaki/pcm-de
 datan jalostaminen
 ([wrangling](http://vis.stanford.edu/wrangler/),
 [ETL vs. DAD](https://www.datasciencecentral.com/profiles/blogs/data-scientist-versus-data-engineer)).
+
+Ensimmäisellä teknologiademolla käydään läpi pandasin perusteita sekä eri kehitysympäristöjä. Teknologiademoon pääsee [tästä](https://jodatut.github.io/2018/Datatiede-perusteet/). Liittykää myös kurssin Slack-kanavalle [täältä](https://join.slack.com/t/jodatut/shared_invite/enQtMzIyOTk4NjI5OTM2LTU2NDUwM2I0ZmRhZmI4Y2E5OWM1NGE1MTA5NDQ5NGRhMDI3NWI0MjUxZDA5MjIxMjhmNmFlYmI5YzRjZTdmOWU).

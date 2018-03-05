@@ -1,26 +1,31 @@
 import pandas as pd
+
+# Used to plot the results
 import matplotlib.pyplot as plt
 from matplotlib import style
 
-style.use('ggplot')
+# style.use('ggplot')
 
 url = 'http://samplecsvs.s3.amazonaws.com/SalesJan2009.csv'
 
-# To keep original dataframe for referencing
+# Use pandas to import data
 orig_df = pd.read_csv(url)
 
-# Make copy for cleaning
+# To keep original dataframe for referencing
 df = orig_df.copy()
 
-# print(df.head())
+print(df.head())
+
+print(df.dtypes)
 
 # Convert object types
 df['Transaction_date'] = pd.to_datetime(df['Transaction_date'])
 df['Account_Created'] = pd.to_datetime(df['Account_Created'])
 df['Last_Login'] = pd.to_datetime(df['Last_Login'])
 
-# print(df.dtypes)
+print(df.dtypes)
 
+# Convert prices to numeric in order to access math functions
 df['Price'] = df['Price'].str.replace(',','')
 df['Price'] = pd.to_numeric(df['Price'])
 

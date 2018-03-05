@@ -19,7 +19,7 @@ Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/s
 
 ## Luentoviikko 4.1
 
-Avausluento maanantaina 5. maaliskuuta kello 14-16 Sähkötalon salissa.
+Avausluento maanantaina 5. maaliskuuta kello 14-16 Konetalon salissa K1320.
 Suorittamisen käytännöt.
 Mitä on datatiede
 ([CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining),

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Luentopäiväkirja / OHSIHA 2018
+title: Luentopäiväkirja / JODA 2018
 year: 2018
 ---
 

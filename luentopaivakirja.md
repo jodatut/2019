@@ -13,7 +13,7 @@ Toteutuskerta etenee karkean
 [luentosuunnitelman](https://docs.google.com/document/d/1drHb2HtmFy_Nu5iVuCtqZV6C9OjsoGMQqDrvDhV7fIc/edit?usp=sharing)
 mukaisesti.
 
-Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/section/8b218f60-14ef-4b65-9d88-1d910ce34f49/public).
+Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/section/c9dd83a0-b703-47e7-82fe-545ff4644e75/public).
 
 # Luentopäiväkirja
 

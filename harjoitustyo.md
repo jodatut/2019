@@ -1,6 +1,10 @@
+---
+layout: default
+title: Harjoitustyöohje / JODA 2018
+year: 2018
+---
+
 Tulossa.
-
-
 
 Vaiheet ja pisteet
 

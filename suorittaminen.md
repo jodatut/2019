@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Suorittaminen / OHSIHA 2018
+title: Suorittaminen / JODA 2018
 ---
 
 # Suorittaminen

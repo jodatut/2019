@@ -13,15 +13,32 @@ Toteutuskerta etenee karkean
 [luentosuunnitelman](https://docs.google.com/document/d/1drHb2HtmFy_Nu5iVuCtqZV6C9OjsoGMQqDrvDhV7fIc/edit?usp=sharing)
 mukaisesti.
 
+Totetutuskerran käytössä on
+[Slack-kanava](https://join.slack.com/t/jodatut/shared_invite/enQtMzIyOTk4NjI5OTM2LTU2NDUwM2I0ZmRhZmI4Y2E5OWM1NGE1MTA5NDQ5NGRhMDI3NWI0MjUxZDA5MjIxMjhmNmFlYmI5YzRjZTdmOWU).
 Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/section/c9dd83a0-b703-47e7-82fe-545ff4644e75/public).
 
 # Luentopäiväkirja
 
-## Luentoviikko 4.2
+## Luentoviikko 4.2: Datan kerääminen ja jalostaminen
 
-Toisella [teknologiademolla](https://jodatut.github.io/2018/Raapijat-ja-ryömijät/) tutustutaan web-ryömijöihin.
+Datatieteen vaiheet ()
 
-## Luentoviikko 4.1
+Kerääminen ja jalostaminen metrokartassa. [ETL vs. DAD](https://www.datasciencecentral.com/profiles/blogs/data-scientist-versus-data-engineer), ryömijät ja raapijat
+([Web crawler](https://en.wikipedia.org/wiki/Web_crawler),
+[Web scraping](https://en.wikipedia.org/wiki/Web_scraping),
+[Web Scraping in Python](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/),
+[Scrapy](https://scrapy.org/)),
+[Scraping for journalists](https://leanpub.com/scrapingforjournalists))
+dataformaatit ja niiden ohjelmallinen käsittely,
+data wrangling (ks. [DataWrangler](http://vis.stanford.edu/wrangler/)),
+datan jalostaminen Pythonilla
+(ks. [Pandas-toimintokooste](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python),
+vrt. OpenRefine.
+
+Koodiklinikalla esittelyssä eräs raapija ja ryömijä (ks. [esimerkki](https://github.com/jukkahuhtamaki/pcm-demo/blob/master/crawl-study-guide/crawl_courses.py),
+
+
+## Luentoviikko 4.1: Johdanto aihepiiriin ja suorittaminen
 
 Avausluento maanantaina 5. maaliskuuta kello 14-16 Konetalon salissa K1320.
 Suorittamisen käytännöt.
@@ -35,11 +52,6 @@ Datatieteen työvälineet:
 [D3.js](https://d3js.org/),
 [Jupyter](http://jupyter.org/).
 Dataa koneeseen:
-read_csv() & read_excel(),
-ryömijät ja raapijat (ks. [esimerkki](https://github.com/jukkahuhtamaki/pcm-demo/blob/master/crawl-study-guide/crawl_courses.py),
-[Scrapy](https://scrapy.org/)),
-datan jalostaminen
-([wrangling](http://vis.stanford.edu/wrangler/),
-[ETL vs. DAD](https://www.datasciencecentral.com/profiles/blogs/data-scientist-versus-data-engineer)).
+read_csv() & read_excel().
 
-Ensimmäisellä teknologiademolla käydään läpi pandasin perusteita sekä eri kehitysympäristöjä. Teknologiademoon pääsee [tästä](https://jodatut.github.io/2018/Datatiede-perusteet/). Liittykää myös kurssin Slack-kanavalle [täältä](https://join.slack.com/t/jodatut/shared_invite/enQtMzIyOTk4NjI5OTM2LTU2NDUwM2I0ZmRhZmI4Y2E5OWM1NGE1MTA5NDQ5NGRhMDI3NWI0MjUxZDA5MjIxMjhmNmFlYmI5YzRjZTdmOWU).
+Ensimmäisellä Koodiklinikalla käydään läpi pandasin perusteita sekä eri kehitysympäristöjä. Teknologiademoon pääsee [tästä](https://jodatut.github.io/2018/Datatiede-perusteet/). Liittykää myös kurssin [Slack-kanavalle] (https://join.slack.com/t/jodatut/shared_invite/enQtMzIyOTk4NjI5OTM2LTU2NDUwM2I0ZmRhZmI4Y2E5OWM1NGE1MTA5NDQ5NGRhMDI3NWI0MjUxZDA5MjIxMjhmNmFlYmI5YzRjZTdmOWU).

@@ -37,6 +37,7 @@ vrt. OpenRefine.
 
 Koodiklinikalla esittelyssä eräs raapija ja ryömijä (ks. [esimerkki](https://github.com/jukkahuhtamaki/pcm-demo/blob/master/crawl-study-guide/crawl_courses.py),
 
+Toiseen teknologiademoon pääsee [tästä](https://jodatut.github.io/2018/Raapijat-ja-ry%C3%B6mij%C3%A4t/).
 
 ## Luentoviikko 4.1: Johdanto aihepiiriin ja suorittaminen
 

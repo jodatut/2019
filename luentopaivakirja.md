@@ -17,6 +17,10 @@ Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/s
 
 # Luentopäiväkirja
 
+## Luentoviikko 4.2
+
+Toisella [teknologiademolla](https://jodatut.github.io/2018/Raapijat-ja-ryömijät/) tutustutaan web-ryömijöihin.
+
 ## Luentoviikko 4.1
 
 Avausluento maanantaina 5. maaliskuuta kello 14-16 Konetalon salissa K1320.

@@ -29,4 +29,4 @@ Lopuksi liittykää opintojakson Slack-kanavalle [täältä](https://join.slack.
 
 Tehdään ohjelma, joka siivoaa likaista dataa käyttäen pandas-kirjastoa. Tutustutaan pandasin DataFrameihin ja siihen, miten niitä voidaan käsitellä. Jos aikaa riittää, tutustutaan myös matplotlib-kirjastoon ja kuvioiden piirtämiseen DataFrameista.
 
-__Ensimmäisen demon lähdekoodi löytyy [tästä](/2018/koodiesimerkit/data_cleaning3.py).__
+__Ensimmäisen demon lähdekoodi löytyy [tästä](https://github.com/jodatut/2018/blob/master/koodiesimerkit/data_cleaning3.py).__

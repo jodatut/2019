@@ -19,9 +19,16 @@ Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/s
 
 # Luentopäiväkirja
 
-Tulossa: Koneoppimisen periaatteet
+## Luentoviikko 4.3: Koneoppimisen periaatteet
 
 Lue ennen luentoa: [Näin laadullinen tieto jalostuu laskennalliseksi: piirteet sosiaalisen median analytiikassa](https://rajapinta.co/2017/10/16/nain-laadullinen-tieto-jalostuu-laskennalliseksi-piirteet-sosiaalisen-median-analytiikassa/)
+
+Koneoppimisen työnkulku (ks. [Supervised learning workflow](https://twitter.com/jnkka/status/973566383899455488)),
+sovellusesimerkki: [asiakaspoistuma-analyysi](http://www.louhia.fi/2014/08/27/asiakaspoistuma-analyysi-ja-miljoona-lisamyyntia/),
+piirteiden erottaminen (ks. [esilukemisto]((https://rajapinta.co/2017/10/16/nain-laadullinen-tieto-jalostuu-laskennalliseksi-piirteet-sosiaalisen-median-analytiikassa/))),
+piirteiden jalostaminen (ks.
+[feature engineering](https://medium.com/mindorks/what-is-feature-engineering-for-machine-learning-d8ba3158d97a)),
+luokittelu Pythonilla ([step-by-step tutorial](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)), dataesimerkkejä (ks. [IBM Watson datasets](https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/)).
 
 ## Luentoviikko 4.2: Datan kerääminen ja jalostaminen
 

@@ -9,7 +9,7 @@ Tehdään yksinkertainen lineaariregressio käyttäen scikit-learnin omia datase
 
 ## Esimerkki 1 ##
 
-Tulee, kunhan saadaan viimeisteltyä!
+[Linkki](https://github.com/jodatut/2018/blob/master/koodiesimerkit/linreg.py) Githubiin ensimmäisen esimerkin koodeihin.
 
 ## Esimerkki 2 ##
 

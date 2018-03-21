@@ -9,7 +9,7 @@ from matplotlib import style
 
 style.use('ggplot')
 
-quandl.ApiConfig.api_key = 'iMS2CYmdLi5zXx5qAiAk' # use own api_key
+quandl.ApiConfig.api_key = '' # use own api_key
 
 # Get stock data
 stock = 'EURONEXT/NOKIA'

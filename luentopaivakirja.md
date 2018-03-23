@@ -19,6 +19,16 @@ Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/s
 
 # Luentopäiväkirja
 
+## Luentoviikko 4.4: Harjoitustyöhön tutustuminen
+
+Lue ennen luentoa: [Predicting Airbnb Listing Prices with Scikit-Learn and Apache Spark](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/)
+
+Johdanto datatieteeseen -harjoitustyössä käydään läpi datatiedeprojektin keskeiset vaiheet.
+Voit valita aiheen ja datalähteen vapaasti.
+Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](https://jodatut.github.io/2018/harjoitustyo/) toteutuksesta.
+Eräs vaihtoehto on Airbnb-aineiston analysointi.
+Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/) soveltamalla.
+
 ## Luentoviikko 4.3: Koneoppimisen periaatteet
 
 Lue ennen luentoa: [Näin laadullinen tieto jalostuu laskennalliseksi: piirteet sosiaalisen median analytiikassa](https://rajapinta.co/2017/10/16/nain-laadullinen-tieto-jalostuu-laskennalliseksi-piirteet-sosiaalisen-median-analytiikassa/)
@@ -28,7 +38,9 @@ sovellusesimerkki: [asiakaspoistuma-analyysi](http://www.louhia.fi/2014/08/27/as
 piirteiden erottaminen (ks. [esilukemisto]((https://rajapinta.co/2017/10/16/nain-laadullinen-tieto-jalostuu-laskennalliseksi-piirteet-sosiaalisen-median-analytiikassa/))),
 piirteiden jalostaminen (ks.
 [feature engineering](https://medium.com/mindorks/what-is-feature-engineering-for-machine-learning-d8ba3158d97a)),
-luokittelu Pythonilla ([step-by-step tutorial](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)), dataesimerkkejä (ks. [IBM Watson datasets](https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/)).
+luokittelu Pythonilla ([step-by-step tutorial](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)), dataesimerkkejä (ks. [IBM Watson datasets](https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/)),
+dataan tutustuminen käyntiin (ks.
+[explore](https://github.com/jodatut/2018/tree/master/koodiesimerkit/explore)).
 
 Koodiklinikalla [esimerkkejä lineaariregressiosta](https://jodatut.github.io/2018/Lineaariregressio).
 

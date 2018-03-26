@@ -18,22 +18,63 @@ Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/b
 |--------|---|---|---|
 | Kehitysympäristö   | Anaconda omalla koneella | [CSC Notebooks](https://www.csc.fi/web/blog/post/-/blogs/notebooks-enemman-aikaa-opetuksen-ytimelle) | Oma pilviympäristö |
 | Datan kerääminen   | Valmis datasetti         | Datasettien yhdistely | Oma datasetti |   
-| Datan jalostaminen | Siistiä lähtödataa       | Siivoaminen ja piirteiden erottaminen | Web ETL |   
+| Datan jalostaminen | Siistiä lähtödataa       | Siivoaminen ja piirteiden erottaminen | Web DAD |   
 | Datan kuvaileminen | Standardikuvaajat        | Monipuolinen visuaalinen raportti | Vuorovaikutteinen Web-kojelauta |   
 | Koneoppiminen      | Lineaarinen regressio    | Monimuuttujaregressio | Hybriditoteutus |   
 | Toimeenpano        | Staattinen raportti      | Vuorovaikutteinen raportti  | Ohjaava analytiikka |  
 
 **Kehitysympäristö**
+Perusta kehitysympäristö projektiasi varten.
+Anacondan asentaminen omalle koneelle on suoraviivaisin vaihtoehto.
+CSC Notebooks -palvelun käyttäminen mahdollistaa Jupyterin opettelun.
+Voit myös rakentaa oman pilvipalvelupohjaisen analytiikkaympäristösi.
 
 **Datan kerääminen**
+Suoraviivaisinta on lähteä liikkeelle valmiista datasta.
+Ehdotamme [Inside Airbnb](http://insideairbnb.com/) -datasetin käyttöä.
+Analytiikkavälineet tarjoavat myös puhdasta esimerkkidataa, katso vaikkapa
+[IBM Watsonin tarjonta](https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/).
+Datasettien yhdistely tuo mukanaan lisähaastetta.
+Voit myös kerätä oman datasetin Web-ryöminnän, ruudunraavinnan tai API-ohjelmoinnin keinoin.
 
 **Datan jalostaminen**
+Analyysi edellyttää aina datan jalostamista ja siivoamista.
+Piirteiden erottaminen on keskeisessä roolissa tätä vaihetta.
+Siistissä datassa piirteet ovat pääosin valmiina,
+mutta usein niiden erottaminen edellyttää lisätyötä.
+[Web DAD](https://www.datasciencecentral.com/profiles/blogs/data-scientist-versus-data-engineer)
+viittaa tässä itse kerätyn datan jalostamiseen analyysiä varten.
 
 **Datan kuvaileminen**
+Datan eksploratiivinen ja kuvaileva analyysi on välttämätöntä analyysin laadun takaamiseksi.
+Toteuta minimissään joukko datan ominaisuuksia kuvaavia visualisointeja.
+Pandas tarjoaa kätevät apuvälineet aikajanoista pistekaaviomatriiseihin.
+Halutessasi voit hyödyntää Web-ohjelmointiosaamistasi ja
+toteuttaa monipuolisen visuaalisen raportin tai
+vuorovaikutteisen Web-kojelaudan.
 
 **Koneoppiminen**
+Kahden muuttujan välistä suhdetta tarkasteleva lineaarinen regressio on
+yksinkertaisin koneoppimismenetelmä.
+Voit vaikkapa etsiä Airbnb-asunnon hintaa parhaiten selvittävät muuttujat.
+Monimuuttujaregressio mahdollistaa esimerkiksi
+[Airbnb-asunnon hinnan ennustamisen](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/).
+Käytännön sovellukset ovat tyypillisesti useita eri menetelmiä yhdisteleviä hybridejä.
 
 **Toimeenpano**
+Datatiedeprojekti tähtää toimenpiteisiin.
+Voit esimerkiksi ehdottaa liiketoimintaan liittyviä toimenpiteitä
+(kuvitteelliselle tai todelliselle) kohdehenkilölle.
+Miten Airbnb-asuntojen sijaintia voisi hyödyntää kahvilaketjun toimipisteiden valinnassa?
+Miten Airbnb-asunnosta olisi mahdollista saada nykyistä parempi päivähinta?
+Staattinen raportti voi olla tekstiä ja kuvia yhdistelevä tuotos.
+Vuorovaikutteisen raportin avulla käyttäjä voi myös itse perehtyä tekemääsi analyysiin.
+Suosittelujärjestelmä tai Airbnb-asunnon hinnan käyttäjän syöttämien
+ominaisuuksien perusteella määrittelevä sovellus ovat esimerkkejä ohjaavasta analytiikasta.
+
+<!-- ## Yhteistyö on sallittua -->
+
+
 
 ## Loppuraportti
 
@@ -60,5 +101,5 @@ Palautettavan zip-paketin (jodatut2018-opiskelijanumero.zip) tulee sisältää h
 Huomaa, että sovelluksen ei tarvitse toimia sellaisenaan. Riittää, että paketin sisältöön voi perehtyä suoraviivaisesti paketin purkamalla.
 
 Merkitse lisäksi harjoitustyön eri ominaisuuksien raportoiduista toteutuksista  ja vierailuluennoille osallistumisesta keräämäsi pisteet
-[Google-laskentataulukkoon](https://docs.google.com/spreadsheets/d/1v2LnwnQHUKA5xA6CrkQ_JHCR-qUqedBwz68ryUIs-vo/edit?usp=sharing) (ei edellytä sisäänkirjautumista).
+[Google-laskentataulukkoon](https://docs.google.com/spreadsheets/d/1v2LnwnQHUKA5xA6CrkQ_JHCR-qUqedBwz68ryUIs-vo/edit?usp=sharing ) (ei edellytä sisäänkirjautumista).
 **Merkitse pisteet ainoastaan siinä tapauksessa, että olet julkaissut kuvauksen määräaikaan mennessä.**

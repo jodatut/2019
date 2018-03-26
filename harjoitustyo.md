@@ -72,9 +72,26 @@ Vuorovaikutteisen raportin avulla käyttäjä voi myös itse perehtyä tekemää
 Suosittelujärjestelmä tai Airbnb-asunnon hinnan käyttäjän syöttämien
 ominaisuuksien perusteella määrittelevä sovellus ovat esimerkkejä ohjaavasta analytiikasta.
 
-<!-- ## Yhteistyö on sallittua -->
+## Pisteiden kerääminen
 
+Pisteiden kerääminen tapahtuu julkaisemalla kunkin vaiheen kuvaus
+toteutuskerran Slackissä **maanantaihin 30. huhtikuuta kello 15 mennessä**.
+Pisteet myönnetään täysimääräisenä kun minimivaatimukset täyttyvät ja
+palautus on tehty annetun aikataulun puitteissa.
 
+Aihepiiriin jo ennen toteutuskerran alkua perehtyneitä suorittajia kannustetaan
+toteuttamaan etenkin ensimmäiset vaiheet annettua aikataulua rivakammin ja
+siten jakamaan osaamistaan muille.
+Erityisen informatiiviset palautukset huomioidaan kokonaissuoritusta arvosteltaessa.
+
+## Yhteistyö on sallittua
+
+Harjoitustyön tekeminen yhteistyössä on sallittua.
+Halutessanne voitte myös toteuttaa yhdessä esimerkiksi datan keräämiseen tai
+jalostamiseen tarvittavia komponentteja.
+Jokainen kuitenkin palauttaa omat kuvauksensa.
+Käyttäkää komponenttien jakamiseen versionhallintajärjestelmää.
+Harjoitustyöt eivät saa olla identtisiä.
 
 ## Loppuraportti
 

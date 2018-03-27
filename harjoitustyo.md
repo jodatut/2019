@@ -28,6 +28,7 @@ Perusta kehitysympäristö projektiasi varten.
 Anacondan asentaminen omalle koneelle on suoraviivaisin vaihtoehto.
 CSC Notebooks -palvelun käyttäminen mahdollistaa Jupyterin opettelun.
 Voit myös rakentaa oman pilvipalvelupohjaisen analytiikkaympäristösi.
+Esimerkiksi [Google Cloud Platform](https://cloud.google.com/) viimeksi mainittuun kategoriaan.
 
 **Datan kerääminen**
 Suoraviivaisinta on lähteä liikkeelle valmiista datasta.
@@ -46,7 +47,7 @@ mutta usein niiden erottaminen edellyttää lisätyötä.
 viittaa tässä itse kerätyn datan jalostamiseen analyysiä varten.
 
 **Datan kuvaileminen**
-Datan eksploratiivinen ja kuvaileva analyysi on välttämätöntä analyysin laadun takaamiseksi.
+Datan eksploratiivinen ja kuvaileva analyysi on välttämätöntä analytiikkaprojektin laadun takaamiseksi.
 Toteuta minimissään joukko datan ominaisuuksia kuvaavia visualisointeja.
 Pandas tarjoaa kätevät apuvälineet aikajanoista pistekaaviomatriiseihin.
 Halutessasi voit hyödyntää Web-ohjelmointiosaamistasi ja
@@ -84,6 +85,18 @@ toteuttamaan etenkin ensimmäiset vaiheet annettua aikataulua rivakammin ja
 siten jakamaan osaamistaan muille.
 Erityisen informatiiviset palautukset huomioidaan kokonaissuoritusta arvosteltaessa.
 
+Yhden vaiheen kuvaus sisältää seuraavat pääkohdat:
+
+1. tiivis kuvaus toteutuksesta,
+1. muutamia otteita toteutuksesta (ohjelmakoodista, asetustiedostoista, ...),
+1. listaus (siis lista linkkejä) ohjeista tai esimerkiksi verkkolähteistä jotka olivat erityisesti hyödyksi tehtävää tehdessä ja
+1. listaus vähintään kolmesta asiasta, jotka olivat valitulla teknologialla joko erityisen helppoja tai vastaavasti hankaloittivat työtäsi merkittävästi.
+
+Kun viesti on valmis, julkaise se Slackissä.
+Halutessasi voit kirjoittaa kuvauksen esimerkiksi dillinger.io-palvelulla ja liittää sen Slackiin-viestiin PDF-muodossa.
+Löydät Slackistä erillisen kanavan kullekin eri vaiheelle.
+Lisää Slack-viestiin sopivat hashtagit (esimerkiksi #jupyter #scikitlearn #pandas) kuvaamaan toteutuksessa käyttämiäsi teknologioita.  
+
 ## Yhteistyö on sallittua
 
 Harjoitustyön tekeminen yhteistyössä on sallittua.
@@ -117,6 +130,6 @@ Otsikoi viesti #JODATUT: työ valmis.
 Palautettavan zip-paketin (jodatut2018-opiskelijanumero.zip) tulee sisältää hakemisto nimeltä jodatut2018-234567 (korvaa lukusarja 234567 omalla opiskelijanumerollasi), jonka sisältä löytyvät työhösi liittyvät koodi- ja asetustiedostot.
 Huomaa, että sovelluksen ei tarvitse toimia sellaisenaan. Riittää, että paketin sisältöön voi perehtyä suoraviivaisesti paketin purkamalla.
 
-Merkitse lisäksi harjoitustyön eri ominaisuuksien raportoiduista toteutuksista  ja vierailuluennoille osallistumisesta keräämäsi pisteet
+Merkitse lisäksi harjoitustyön eri ominaisuuksien raportoiduista toteutuksista ja vierailuluennoille osallistumisesta keräämäsi pisteet
 [Google-laskentataulukkoon](https://docs.google.com/spreadsheets/d/1v2LnwnQHUKA5xA6CrkQ_JHCR-qUqedBwz68ryUIs-vo/edit?usp=sharing ) (ei edellytä sisäänkirjautumista).
 **Merkitse pisteet ainoastaan siinä tapauksessa, että olet julkaissut kuvauksen määräaikaan mennessä.**

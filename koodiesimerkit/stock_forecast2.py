@@ -9,7 +9,7 @@ from matplotlib import style
 
 style.use('ggplot')
 
-quandl.ApiConfig.api_key = '' # use own api_key
+quandl.ApiConfig.api_key = 'iMS2CYmdLi5zXx5qAiAk' # use own api_key
 
 # Get stock data
 stock = 'EURONEXT/NOKIA'
@@ -33,7 +33,7 @@ forecast_out = int(math.ceil(pct*len(df)))      # pct of data set to where forec
 df['label'] = df[forecast_col].shift(-forecast_out)
 
 X = np.array(df.drop(['label'], 1))  # Features, everything except label
-X_lately = X[-forecast_out:]
+X_lately = X[-forecast_out:]         # Time period to be forecasted 
 X = X[:-forecast_out:]
 
 df.dropna(inplace=True)             # Drop missing data

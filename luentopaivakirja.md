@@ -19,6 +19,15 @@ Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/s
 
 # Luentopäiväkirja
 
+## Luentoviikko 4.5: Ohjaamaton koneoppiminen
+
+Miten ohjattu ja ohjaamaton oppiminen eroavat toisistaan?
+Ohjaamaton oppiminen (ks. [Unsupervised learning workflow](https://goo.gl/images/dCm55z)),
+[ostoskorianalyysi](http://pbpython.com/market-basket-analysis.html),
+[verkostoanalyysi](https://github.com/jukkahuhtamaki/demo-twitter-collector/blob/master/README.md),
+ryvästäminen (ks. [k-means-clustering](https://www.datascience.com/blog/k-means-clustering),
+aihemallinnus eli [topic modeling](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730) ja sen [riskit](https://rajapinta.co/2017/07/08/varovaisuutta-aihemallinnuksen-kanssa/).
+
 ## Luentoviikko 4.4: Harjoitustyöhön tutustuminen
 
 Lue ennen luentoa: [Predicting Airbnb Listing Prices with Scikit-Learn and Apache Spark](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/)

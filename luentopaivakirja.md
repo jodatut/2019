@@ -14,7 +14,7 @@ Toteutuskerta etenee karkean
 mukaisesti.
 
 Totetutuskerran käytössä on
-[Slack-kanava](https://join.slack.com/t/jodatut/shared_invite/enQtMzIyOTk4NjI5OTM2LTU2NDUwM2I0ZmRhZmI4Y2E5OWM1NGE1MTA5NDQ5NGRhMDI3NWI0MjUxZDA5MjIxMjhmNmFlYmI5YzRjZTdmOWU).
+[Slack-kanava](https://join.slack.com/t/jodatut/shared_invite/enQtMzQyNzE1NzgxNDQwLTIyNmE5OGQwYWIxMjc3MjU2MDU1Mzc0NTQ0OWE3OTg4Y2I5Y2E0MDkxYTAyZjQwNTJhYTFmZGJhNDdiNzMwOTg).
 Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/section/c9dd83a0-b703-47e7-82fe-545ff4644e75/public).
 
 # Luentopäiväkirja

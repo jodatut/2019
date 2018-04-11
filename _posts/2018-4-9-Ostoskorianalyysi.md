@@ -11,4 +11,16 @@ Teknologiademossa tutustutaan ryvästämiseen (clustering) ostoskorianalyysin ke
 
 ## Esimerkki 1 ##
 
-Esimerkkikoodit tulevat myöhemmin saataville.
+Ostoskorianalyyissä käytetään Apriori-algoritmiin [mlxtend-kirjastoa](http://rasbt.github.io/mlxtend/). Kirjaston voi ladata Anaconda Promptissa komennolla
+
+     conda install -c conda-forge mlxtend
+
+Esimerkissä käytetyn datan voi ladata [täältä](https://drive.google.com/file/d/0BzygIwXb3aZJZ1c0Ri1hZ0VOWkk/view).
+
+Koodi löytyy [täältä](https://github.com/jodatut/2018/blob/master/koodiesimerkit/apriori_notebook.py).
+
+## Esimerkki 2 ##
+
+Toisessa esimerkissä käytetyn datan voi ladata [täältä](https://www.datascience.com/blog/k-means-clustering).
+
+Koodi löytyy [täältä](https://github.com/jodatut/2018/blob/master/koodiesimerkit/clustering_notebook.py).

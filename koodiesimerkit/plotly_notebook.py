@@ -20,12 +20,12 @@ df.price = pd.to_numeric(df.price)
 # Set all the credentials
 import plotly
 
-plotly.tools.set_credentials_file(username='maattas', api_key='ohQ69DL2NqHyyI9bY27a')
+plotly.tools.set_credentials_file(username='', api_key='')
 
 import plotly.plotly as py
 from plotly.graph_objs import *
 
-mapbox_access_token = 'pk.eyJ1IjoibWFhdHRhcyIsImEiOiJjamcxMGJkaWUwN3ptMnZzMWM2cXV1NndqIn0.AocTRz0G4JohVWBMMTZipw'
+mapbox_access_token = ''
 
 
 # In[7]:

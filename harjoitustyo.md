@@ -124,7 +124,8 @@ Otsikoi viesti #JODATUT: työ valmis.
   <p>Harjoitustyö löytyy kokonaisuudessaan oheisesta zip-paketista (jodatut2018-234567.zip).</p>
 
 <p>Oppimispäiväkirjani löytyy osoitteesta:
-[http://blog.fi/jamesstation/jodatut2018](http://blog.fi/jamesstation/jodatut2018).</p>
+<a href="http://blog.fi/jamesstation/jodatut2018">http://blog.fi/jamesstation/jodatut2018</a>.</p>
+
 </blockquote>
 
 Palautettavan zip-paketin (jodatut2018-opiskelijanumero.zip) tulee sisältää hakemisto nimeltä jodatut2018-234567 (korvaa lukusarja 234567 omalla opiskelijanumerollasi), jonka sisältä löytyvät työhösi liittyvät koodi- ja asetustiedostot.

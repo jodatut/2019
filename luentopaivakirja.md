@@ -19,9 +19,13 @@ Osa luennoista tallennetaan [Echo360-järjestelmällä](https://echo360.org.uk/s
 
 # Luentopäiväkirja
 
+Kaikkien aikojen ensimmäinen Johdanto datatieteeseen -toteutuskerta on päättynyt.
+Katsasta seuraavaksi esimerkiksi opintojaksot [Data- ja informaatioanalytiikka](http://www.tut.fi/opinto-opas/wwwoppaat/opas2017-2018/perus/aineryhmat/Tiedonhallinta/TLO-35100.html) ja
+[Introduction to Pattern Recognition and Machine Learning](http://www.tut.fi/opinto-opas/wwwoppaat/opas2017-2018/kv/aineryhmat/Signaalinkasittely/SGN-13006.html).
+
 ## Luentoviikko 4.6: Datan visualisointi
 
-Viimeisellä varsinaisella luentoviikolla käydään läpi datan vuorovaikutteista eksploratiivista analytiikka ja luodaan tiekarttaa kohti datatuotteiden kehittämistä. Lue artikkeli [Designing and Developing Analytics-Based Data Products](https://sloanreview.mit.edu/article/designing-and-developing-analytics-based-data-products/) ja katso Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg).
+Viimeisellä varsinaisella luentokerralla käydään läpi datan vuorovaikutteista eksploratiivista analytiikka ja luodaan tiekarttaa kohti datatuotteiden kehittämistä. Lue artikkeli [Designing and Developing Analytics-Based Data Products](https://sloanreview.mit.edu/article/designing-and-developing-analytics-based-data-products/) ja katso Jeffrey Heerin [keynote-esitys visuaalisesta analytiikasta](https://www.youtube.com/watch?v=hsfWtPH2kDg).
 
 [Koodiklinikalla](https://jodatut.github.io/2018/Datan-visualisointi) päästään tekemään visualisointeja siihen tarkoitettujen kirjastojen avulla sekä luomaan yksinkertainen web-sovellus datan ympärille.
 

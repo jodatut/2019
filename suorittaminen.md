@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Suorittaminen / JODA 2018
+title: Suorittaminen / JODA 2019
 ---
 
 # Suorittaminen
@@ -14,15 +14,14 @@ Suorittaminen edellyttää yhteensä 15 pisteen keräämistä.
 Tiivis ohje oppimispäiväkirjan kirjoittamiseen:
 
 1. Kerro osallistuitko viikon opetukseen ja kuvaa päiväkirjan laatimisessa käyttämäsi aineisto.
-1. Tiivistä jokaisen luentoviikon keskeiset asiat tekstiksi.
-1. Kirjaa lisäksi ylös viisi oivallusta tai tärkeintä oppimaasi asiaa erilliseksi listaksi.
-1. Listaa vielä yhdestä kolmeen kehityskohdetta luentoviikolle.
+2. Tiivistä jokaisen luentoviikon keskeiset asiat tekstiksi.
+3. Kirjaa lisäksi ylös viisi oivallusta tai tärkeintä oppimaasi asiaa erilliseksi listaksi.
+4. Listaa vielä yhdestä kolmeen kehityskohdetta luentoviikolle.
 
 Oppimispäiväkirja karttuu noin yhdellä A4-sivulla viikossa.
 
 Perusta luentopäiväkirjaa varten verkkoon dokumentti, jota päivität kevään mittaan luentojen edetessä.
-Kerro dokumentin osoite sähköpostitse Jukalle (jukka.huhtamaki@tut.fi) kun perustat luentopäiväkirjan - lisää sähköpostin otsikkoon #jodatut.
-Myös Google Docs -dokumentin käyttäminen on mahdollista - jaa dokumentti Jukalle (jukka.huhtamaki@gmail.com).
+Kerro dokumentin osoite [Google Forms:n](https://goo.gl/forms/rwfKD6YFDpDSOS8a2) avulla Arholle.
 
 Oppimispäiväkirjat arvioidaan seuraavien kriteerien perusteella:
 
@@ -30,4 +29,4 @@ Oppimispäiväkirjat arvioidaan seuraavien kriteerien perusteella:
 * Soveltava vastaan luettelomainen: Kiitettävässä oppimispäiväkirjassa opiskelija jalostaa luennolla esitettyjä ajatuksia edelleen ja muodostaa viikon teemasta eheän kokonaisuuden. Välttävässä oppimispäiväkirjassa opiskelija esittää samat asiat samassa muodossa kuin luennolla.
 * Pohdiskelu ja reflektointi: Kiitettävässä oppimispäiväkirjassa opiskelija peilaa viikon teemoja omaan osaamiseen ja pohtii teemoja myös harjoitustyön näkökulmasta. Välttävässä oppimispäiväkirjassa asiat on esitetty annettuina ja irrallisina toteamuksina.
 
-Palauta oppimispäiväkirja samassa yhteydessä kuin harjoitustyö, viimeistään perjantaina 11. toukokuuta 2018. Katso ohjeet palautukseen [harjoitustyöohjeesta](https://jodatut.github.io/2018/harjoitustyo/#loppuraportti).
+Palauta oppimispäiväkirja samassa yhteydessä kuin harjoitustyö, viimeistään perjantaina 30. huhtikuuta 2019. Katso ohjeet palautukseen [harjoitustyöohjeesta](https://jodatut.github.io/2019/harjoitustyo/#loppuraportti).

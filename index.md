@@ -6,7 +6,7 @@ year: 2019
 
 # Johdanto datatieteeseen 2019
 
-Johdanto datatieteeseen [luennoidaan](http://www.tut.fi/opinto-opas/wwwoppaat/opas2018-2019/perus/aineryhmat/Tiedonhallinta/TLO-32410.html) toisen kerran keväällä 2019 tiistaisin kello 10-12 ja keskiviikkoisin 14-15 SJ204.
+Johdanto datatieteeseen [luennoidaan](http://www.tut.fi/opinto-opas/wwwoppaat/opas2018-2019/perus/aineryhmat/Tiedonhallinta/TLO-32410.html) toisen kerran keväällä 2019 tiistaisin kello 10-12 ja perjantaina 9-10 SJ204.
 
 Opintojakson kevään 2019 toteutuskerta rakentuu tämän Github-kokonaisuuden ympärille.
 Alan kehitys etenee huimaa tahtia, joten sisältöjä päivitetään vuosittain.

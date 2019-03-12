@@ -75,12 +75,13 @@ ryömijät ja raapijat
 [Web scraping](https://en.wikipedia.org/wiki/Web_scraping),
 [Web Scraping in Python](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/),
 [Scrapy](https://scrapy.org/)),
-[Scraping for journalists](https://leanpub.com/scrapingforjournalists))
 dataformaatit ja niiden ohjelmallinen käsittely,
 data wrangling (ks. [DataWrangler](http://vis.stanford.edu/wrangler/)),
-datan jalostaminen Pythonilla
+datan ensi tarkastelu Pythonilla
 (ks. [Pandas-toimintokooste](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python),
 vrt. OpenRefine.
+
+Toisen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentokirjat/Lecture%202.ipynb)
 
 Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://jodatut.github.io/2018/Raapijat-ja-ry%C3%B6mij%C3%A4t/).
 

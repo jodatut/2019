@@ -83,7 +83,7 @@ vrt. OpenRefine.
 
 Toisen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentokirjat/Lecture%202.ipynb)
 
-Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://jodatut.github.io/2018/Raapijat-ja-ry%C3%B6mij%C3%A4t/).
+Koodiklinikalla käsittelyssä [raapijat ja ryömijät](https://github.com/jodatut/2019/blob/master/koodiesimerkit/crawler.md).
 
 <!-- eräs raapija ja ryömijä (ks. [esimerkki](https://github.com/jukkahuhtamaki/pcm-demo/blob/master/crawl-study-guide/crawl_courses.py), -->
 

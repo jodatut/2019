@@ -5,8 +5,8 @@ title: Raapijat ja ryömijät
 
 # Teknologiademo 2 #
 
-Toteutetaan web-ryömijä (engl. crawler), joka kerää internet-sivulta määrätyltä HTML/CSS-tägiltä kaikki tiedot. Ensimmäisessä esimerkissä haetaan Finnkinon ohjelmistossa olevat elokuvat ja ohjaajat. Palauttakaa mieliin ennen koodiklinikkaa, miten HTML/CSS-elementit toimivat.
+Implementing a crawler that collects all the information from a specific HTML / CSS tag on a web page. In this example, we will be collecting reviews and ratings from items listed on Amazon.com. Make sure you go over the basic principles of HTML/CSS before the demo session.
 
 ## Esimerkki 1 ##
 
-__Esimerkkikoodi löytyy [täältä](https://github.com/jodatut/2018/blob/master/koodiesimerkit/crawler.py).__ Laajempia ohjeistuksia löytyy BeautifulSoupin [dokumentaatiosta](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) tai esimerkiksi [täältä](https://www.dataquest.io/blog/web-scraping-beautifulsoup/).
+An example code can be found [here](https://github.com/jodatut/2019/blob/master/koodiesimerkit/crawler.md) . More detailed instructions and example use cases of **scrapy** can be found in its [documentation page](https://docs.scrapy.org/en/latest/) .

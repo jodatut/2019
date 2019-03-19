@@ -4,10 +4,9 @@ title: Harjoitustyöohje / JODA 2018
 year: 2018
 ---
 
-Ohje viimeistellään luentoviikon 4.4 aikana. Ilmoita epäjohdonmukaisuuksista [Jukalle](http://www.tut.fi/fi/henkilokortti/index.htm?id=8883).
+Ohje viimeistellään luentoviikon 4.4 aikana. Ilmoita epäjohdonmukaisuuksista Arholle, vaikka Slack-kanavalla.
 
-Johdanto datatieteeseen -harjoitustyössä käydään läpi datatiedeprojektin keskeiset vaiheet.
-Voit valita aiheen ja datalähteen vapaasti.
+Johdanto datatieteeseen -harjoitustyössä käydään läpi datatiedeprojektin keskeiset vaiheet. Voit valita aiheen ja datalähteen vapaasti.
 Saat pisteitä julkaisemalla Slackissa kuvauksen [harjoitustyön eri vaiheiden](https://jodatut.github.io/2018/harjoitustyo/) toteutuksesta.
 Eräs vaihtoehto on Airbnb-aineiston analyysi datatieteen menetelmin.
 Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/) soveltamalla.
@@ -16,7 +15,7 @@ Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/b
 
 | Vaihe  | 1 piste  | 2 pistettä   | 3 pistettä  |
 |--------|---|---|---|
-| Kehitysympäristö   | Anaconda omalla koneella | [CSC Notebooks](https://www.csc.fi/web/blog/post/-/blogs/notebooks-enemman-aikaa-opetuksen-ytimelle) | Oma pilviympäristö |
+| Kehitysympäristö   | [CSC Notebooks](https://www.csc.fi/web/blog/post/-/blogs/notebooks-enemman-aikaa-opetuksen-ytimelle) | Anaconda omalla koneella | Oma pilviympäristö |
 | Datan kerääminen   | Valmis datasetti         | Datasettien yhdistely | Oma datasetti |   
 | Datan jalostaminen | Siistiä lähtödataa       | Siivoaminen ja piirteiden erottaminen | Web DAD |   
 | Datan kuvaileminen | Standardikuvaajat        | Monipuolinen visuaalinen raportti | Vuorovaikutteinen Web-kojelauta |   
@@ -25,8 +24,8 @@ Voit vaikkapa toteuttaa hintaennustimen [esimerkkianalyysiä](https://mapr.com/b
 
 **Kehitysympäristö**
 Perusta kehitysympäristö projektiasi varten.
-Anacondan asentaminen omalle koneelle on suoraviivaisin vaihtoehto.
 CSC Notebooks -palvelun käyttäminen mahdollistaa Jupyterin opettelun.
+Anacondan asentaminen omalle koneelle on suoraviivaisin vaihtoehto.
 Voit myös rakentaa oman pilvipalvelupohjaisen analytiikkaympäristösi.
 Esimerkiksi [Google Cloud Platform](https://cloud.google.com/) viimeksi mainittuun kategoriaan.
 
@@ -34,7 +33,7 @@ Esimerkiksi [Google Cloud Platform](https://cloud.google.com/) viimeksi mainittu
 Suoraviivaisinta on lähteä liikkeelle valmiista datasta.
 Ehdotamme [Inside Airbnb](http://insideairbnb.com/) -datasetin käyttöä.
 Analytiikkavälineet tarjoavat myös puhdasta esimerkkidataa, katso vaikkapa
-[IBM Watsonin tarjonta](https://www.ibm.com/communities/analytics/watson-analytics-blog/guide-to-sample-datasets/).
+[Kaggle tarjonta](https://www.kaggle.com/datasets).
 Datasettien yhdistely tuo mukanaan lisähaastetta.
 Voit myös kerätä oman datasetin Web-ryöminnän, ruudunraavinnan tai API-ohjelmoinnin keinoin.
 
@@ -76,7 +75,7 @@ ominaisuuksien perusteella määrittelevä sovellus ovat esimerkkejä ohjaavasta
 ## Pisteiden kerääminen
 
 Pisteiden kerääminen tapahtuu julkaisemalla kunkin vaiheen kuvaus
-toteutuskerran Slackissä **maanantaihin 30. huhtikuuta kello 15 mennessä**.
+toteutuskerran Slackissä **keskiviikko 3.5 kello 15 mennessä**.
 Pisteet myönnetään täysimääräisenä kun minimivaatimukset täyttyvät ja
 palautus on tehty annetun aikataulun puitteissa.
 
@@ -109,9 +108,9 @@ Harjoitustyöt eivät saa olla identtisiä.
 ## Loppuraportti
 
 Harjoitustyön palautus tapahtuu lähettämällä oheisen mallin mukainen viesti
-**perjantaihin 11. toukokuuta kello 17 mennessä**
+**keskiviikkona 15.5. toukokuuta kello 17 mennessä**
 osoitteeseen
-[jukka.huhtamaki@tut.fi](mailto:jukka.huhtamaki@tut.fi).
+[jukka.huhtamaki@tut.fi](mailto:arho.suominen@vtt.fi).
 Otsikoi viesti #JODATUT: työ valmis.
 
 <blockquote>
@@ -131,6 +130,6 @@ Otsikoi viesti #JODATUT: työ valmis.
 Palautettavan zip-paketin (jodatut2018-opiskelijanumero.zip) tulee sisältää hakemisto nimeltä jodatut2018-234567 (korvaa lukusarja 234567 omalla opiskelijanumerollasi), jonka sisältä löytyvät työhösi liittyvät koodi- ja asetustiedostot.
 Huomaa, että sovelluksen ei tarvitse toimia sellaisenaan. Riittää, että paketin sisältöön voi perehtyä suoraviivaisesti paketin purkamalla.
 
-Merkitse lisäksi harjoitustyön eri ominaisuuksien raportoiduista toteutuksista ja vierailuluennoille osallistumisesta keräämäsi pisteet
-[Google-laskentataulukkoon](https://docs.google.com/spreadsheets/d/1v2LnwnQHUKA5xA6CrkQ_JHCR-qUqedBwz68ryUIs-vo/edit?usp=sharing ) (ei edellytä sisäänkirjautumista).
+Merkitse lisäksi harjoitustyön eri ominaisuuksien raportoiduista toteutuksista keräämäsi pisteet
+[Google-laskentataulukkoon](https://docs.google.com/spreadsheets/d/1xKYYAjyzkk5rTL3KuSMs2Srdp-wLgHzPc-QXXGRtaVw/edit?usp=sharing ) (ei edellytä sisäänkirjautumista).
 **Merkitse pisteet ainoastaan siinä tapauksessa, että olet julkaissut kuvauksen määräaikaan mennessä.**

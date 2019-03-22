@@ -63,6 +63,10 @@ luokittelu Pythonilla ([step-by-step tutorial](https://machinelearningmastery.co
 
 Kolmannen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentokirjat/Luento%203.ipynb)
 
+Koodiklinikalla käsittelyssä [Description and Code](https://jodatut.github.io/2019/Loan-Status-Prediction/).
+
+
+
 ## Luento 12.3: Datan kerääminen ja jalostaminen
 
 Datatiedeprosessin vaiheet ([Data Science Workflow](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)),

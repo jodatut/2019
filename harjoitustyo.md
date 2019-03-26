@@ -110,7 +110,7 @@ Harjoitustyöt eivät saa olla identtisiä.
 Harjoitustyön palautus tapahtuu lähettämällä oheisen mallin mukainen viesti
 **keskiviikkona 15.5. toukokuuta kello 17 mennessä**
 osoitteeseen
-[jukka.huhtamaki@tut.fi](mailto:arho.suominen@vtt.fi).
+[arho.suominen@vtt.fi](mailto:arho.suominen@vtt.fi).
 Otsikoi viesti #JODATUT: työ valmis.
 
 <blockquote>

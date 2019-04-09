@@ -36,6 +36,8 @@ Ohjaamaton oppiminen (ks. [Unsupervised learning workflow](https://goo.gl/images
 ryvästäminen (ks. [k-means-clustering](https://www.datascience.com/blog/k-means-clustering)),
 aihemallinnus eli [topic modeling](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730) ja sen [riskit](https://rajapinta.co/2017/07/08/varovaisuutta-aihemallinnuksen-kanssa/).
 
+Viidennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentokirjat/Luento%205.ipynb)
+
 Koodiklinikalla tutustutaan [ryvästämiseen ostoskorianalyysin kautta](https://jodatut.github.io/2018/Ostoskorianalyysi).
 
 ## Luento 26.3: Harjoitustyöhön tutustuminen

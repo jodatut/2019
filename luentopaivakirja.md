@@ -38,7 +38,7 @@ aihemallinnus eli [topic modeling](https://medium.com/mlreview/topic-modeling-wi
 
 Viidennen luennon esitysmateriaali [Jupyter-työkirjana](https://github.com/jodatut/2019/blob/master/luentokirjat/Luento%205.ipynb)
 
-Koodiklinikalla tutustutaan [ryvästämiseen ostoskorianalyysin kautta](https://jodatut.github.io/2018/Ostoskorianalyysi).
+Koodiklinikalla tutustutaan [Principal Component Analysis-PCA](https://jodatut.github.io/2019/analysisofpca).
 
 ## Luento 26.3: Harjoitustyöhön tutustuminen
 

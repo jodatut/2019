@@ -1,3 +1,4 @@
+
 # Crawlers and Scrapers
 
 The goal of this session is to build and run our own scraper using the **scrapy** python library. Our scraper will crawl through different customer-review pages and get all of the available ratings and reviews.

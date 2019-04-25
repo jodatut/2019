@@ -9,7 +9,7 @@ This session we will go over Principal Component Analysis. This technique emphas
 
 ## Esimerkki 1 ##
 
-Koodi löytyy [täältä](https://github.com/jodatut/2018/blob/master/koodiesimerkit/pca_boston.py).
+Koodi löytyy [täältä](https://github.com/jodatut/2019/blob/master/koodiesimerkit/pca_boston.py).
 
 ## Esimerkki 2 ##
 
